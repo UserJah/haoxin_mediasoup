@@ -15,7 +15,11 @@ dependencies:
   sdp_transform: ^0.3.2
   collection: ^1.16.0
   h264_profile_level_id: ^0.2.0
-  protoo_client: ^0.3.3
+  # WebSocket Client
+  protoo_client:
+    git:
+      url: https://github.com/UserJah/dart-protoo-client.git
+      ref: master
   
 dev_dependencies:
   flutter_test:

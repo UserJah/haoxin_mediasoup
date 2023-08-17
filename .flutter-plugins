@@ -1,8 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-flutter_webrtc=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/flutter_webrtc-0.9.6/
-path_provider=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider-2.0.11/
-path_provider_android=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_android-2.0.20/
-path_provider_ios=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_ios-2.0.11/
-path_provider_linux=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_linux-2.1.7/
-path_provider_macos=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_macos-2.0.6/
-path_provider_windows=/Users/beoyan/Desktop/Flutter/flutter/.pub-cache/hosted/pub.flutter-io.cn/path_provider_windows-2.1.3/
+flutter_webrtc=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/flutter_webrtc-0.9.34/
+path_provider=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/path_provider-2.1.0/
+path_provider_android=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/path_provider_android-2.1.0/
+path_provider_foundation=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.0/
+path_provider_linux=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.0/
+path_provider_windows=/Users/dzaksimovrustam/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.0/
